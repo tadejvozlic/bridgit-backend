@@ -1,4 +1,11 @@
 {
     "server_port": 3000,
-    "prefix":""
+    "prefix":"",
+    "db": {
+        "hostname": "localhost",
+        "port": "3308",
+        "username": "user",
+        "password": "password",
+        "database": "games"
+      }
 }
